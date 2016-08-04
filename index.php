@@ -5,3 +5,5 @@
 #			lb@webaholix.com
 
 echo 'Hello GIT!';
+
+phpinfo();
