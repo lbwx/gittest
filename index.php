@@ -4,6 +4,6 @@
 # Author:	Ľuboš Babocký
 #			lb@webaholix.com
 
-echo 'Hello GIT!';
+echo 'GitHub works!!!';
 
 phpinfo();
