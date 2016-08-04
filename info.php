@@ -4,6 +4,4 @@
 # Author:	Ľuboš Babocký
 #			lb@webaholix.com
 
-echo 'GitHub works!!!';
-?>
-<a href="info.php">link</a>
+echo 'this is another file';
