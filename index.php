@@ -4,6 +4,9 @@
 # Author:	Ľuboš Babocký
 #			lb@webaholix.com
 
-echo 'GitHub works!!!';
+	echo 'GitHub works!!!';
+	
 ?>
-<a href="info.php">link</a>
+	<a href="info.php">link</a>
+	<span>Test</span>
+

@@ -4,4 +4,4 @@
 # Author:	Ľuboš Babocký
 #			lb@webaholix.com
 
-echo 'this is another file';
+echo 'This is another file!';
